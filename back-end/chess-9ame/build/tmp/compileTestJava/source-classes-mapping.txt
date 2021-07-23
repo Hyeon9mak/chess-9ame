@@ -1,0 +1,16 @@
+chessgame/domain/piece/KnightTest.java
+ chessgame.domain.piece.KnightTest
+chessgame/domain/piece/QueenTest.java
+ chessgame.domain.piece.QueenTest
+chessgame/domain/piece/PawnTest.java
+ chessgame.domain.piece.PawnTest
+chessgame/service/MemberServiceTest.java
+ chessgame.service.MemberServiceTest
+chessgame/domain/piece/KingTest.java
+ chessgame.domain.piece.KingTest
+chessgame/domain/piece/RookTest.java
+ chessgame.domain.piece.RookTest
+chessgame/domain/member/MemberRepositoryTest.java
+ chessgame.domain.member.MemberRepositoryTest
+chessgame/domain/piece/BishopTest.java
+ chessgame.domain.piece.BishopTest
